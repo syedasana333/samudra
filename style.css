@@ -11,6 +11,7 @@ body{
 .hero-class{
     height:90vh;
     background-color: rgba(54, 84, 150, 0.601);
+    overflow: hidden;
 }
 
 
@@ -66,6 +67,9 @@ h1{
     width: 303px;
 }
 
+.width{
+    width:315px;
+}
 
 .image{
     margin-top: -32px;
@@ -282,6 +286,10 @@ footer{
         height:574px;
         margin-top: -50px;
         
+    }
+
+    .width{
+        width: 100%;
     }
 
     .hero{
